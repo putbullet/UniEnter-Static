@@ -1,2 +1,5 @@
 # -Design-and-Develop-a-Website-using-Figma-and-CSS
-a coursera project 
+A coursera project 
+
+![Website Screenshot](website_image.png)
+
